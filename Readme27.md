@@ -1,0 +1,1 @@
+Define a funcion which takes three integers number as parameters and returns maximum of them

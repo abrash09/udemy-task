@@ -1,0 +1,1 @@
+Write a program to prompt the user for hours and rate per hour to compute grosspay. You need to take to account that the as exactly two digits after the decimal place.

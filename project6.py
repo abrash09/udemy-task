@@ -1,0 +1,8 @@
+print("Welcome to Nushkuroh enterprise")
+day = int (input("Enter the number of days:? \n"))
+hotel = float(input("enter hotel price: $? \n"))
+flight = float (input("enter flight price: $? \n"))
+car_price = float (input("enter rental car price: $? \n"))
+expenses = float (input("enetr other expenses: $? \n"))
+overall = round(day * hotel + day * car_price + flight, 2)
+print(f"Total: ${overall}")
