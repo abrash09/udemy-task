@@ -1,6 +1,13 @@
-custom_list = [11, 30.1, 90.2, 30, 45.1, 54, '54']
+# def check_test():
+#     username = input("Enter username: ")
+#     while username == "test":
+#         return
+#     else:
+#         print (username)
+# print(check_test())
+    
 
-for num in custom_list:
-    if num == int:
-        num = custom_list
-    print(num)
+username = ""
+while username != "test":
+    username = input("Enter username: ")
+    

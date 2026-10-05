@@ -1,8 +1,8 @@
 def add_even_numbers(start, end):
     cal = 0
-    for number in range(start, end):
+    for number in range(start, end+1):
         if number %2==0:
             cal += number
     return cal
 
-print(add_even_numbers(1,101))
+print(add_even_numbers(1,100))
